@@ -17,3 +17,7 @@ The following are the Introduction to Pandas exmaples:
 - [Select Data](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/select_data.py).
 
 - [Create a New Column](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/create_a_new_column.py).
+
+## Data Cleaning
+
+- [Drop Duplicate Rows](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/drop_duplicate_rows.py).
