@@ -29,3 +29,5 @@ The following are the Introduction to Pandas exmaples:
 - [Rename Columns](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/rename_columns.py).
 
 - [Change Data Type](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/change_data_type.py).
+
+- [Fill Missing Data](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/fill_missing_data.py).
