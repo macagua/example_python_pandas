@@ -31,3 +31,7 @@ The following are the Introduction to Pandas exmaples:
 - [Change Data Type](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/change_data_type.py).
 
 - [Fill Missing Data](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/fill_missing_data.py).
+
+## Table Reshaping
+
+- [Reshape Data: Concatenate](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/reshape_data_concatenate.py).
