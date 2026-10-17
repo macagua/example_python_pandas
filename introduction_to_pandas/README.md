@@ -39,3 +39,7 @@ The following are the Introduction to Pandas exmaples:
 - [Reshape Data: Pivot](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/reshape_data_pivot.py).
 
 - [Reshape Data: Melt](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/reshape_data_melt.py).
+
+## Advanced Techniques
+
+- [Method Chaining](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/method_chaining.py).
