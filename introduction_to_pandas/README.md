@@ -11,3 +11,7 @@ The following are the Introduction to Pandas exmaples:
 - [Get the Size of a DataFrame](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/get_the_size_of_a_dataframe.py).
 
 - [Display the First Three Rows](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/display_the_first_three_rows.py).
+
+## Data Selecting
+
+- [Select Data](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/select_data.py).
