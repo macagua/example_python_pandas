@@ -15,3 +15,5 @@ The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days
 ## String Methods
 
 - [Invalid Tweets](https://github.com/macagua/example.pandas/blob/main/30_days_of_pandas/invalid_tweets.py).
+
+- [Calculate Special Bonus](https://github.com/macagua/example.pandas/blob/main/30_days_of_pandas/calculate_special_bonus.py).
