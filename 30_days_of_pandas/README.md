@@ -4,20 +4,20 @@ The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days
 
 ## Data Filtering
 
-- [Big Countries](https://github.com/macagua/example.pandas/blob/main/30_days_of_pandas/big_countries.py).
+- [Big Countries](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/big_countries.py).
 
-- [Recyclable and Low Fat Products](https://github.com/macagua/example.pandas/blob/main/30_days_of_pandas/recyclable_and_low_fat_products.py).
+- [Recyclable and Low Fat Products](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/recyclable_and_low_fat_products.py).
 
-- [Customers Who Never Order](https://github.com/macagua/example.pandas/blob/main/30_days_of_pandas/customers_who_never_order.py).
+- [Customers Who Never Order](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/customers_who_never_order.py).
 
-- [Article Views I](https://github.com/macagua/example.pandas/blob/main/30_days_of_pandas/article_views_i.py).
+- [Article Views I](https://github.com/macagua/example_python_pandas_pandas/blob/main/30_days_of_pandas/article_views_i.py).
 
 ## String Methods
 
-- [Invalid Tweets](https://github.com/macagua/example.pandas/blob/main/30_days_of_pandas/invalid_tweets.py).
+- [Invalid Tweets](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/invalid_tweets.py).
 
-- [Calculate Special Bonus](https://github.com/macagua/example.pandas/blob/main/30_days_of_pandas/calculate_special_bonus.py).
+- [Calculate Special Bonus](https://github.com/macagua/example_python_pandas_pandas/blob/main/30_days_of_pandas/calculate_special_bonus.py).
 
-- [Fix Names in a Table](https://github.com/macagua/example.pandas/blob/main/30_days_of_pandas/fix_names_in_a_table.py).
+- [Fix Names in a Table](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/fix_names_in_a_table.py).
 
 - [Find Users With Valid E-Mails](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/find_users_with_valid_emails.py).
