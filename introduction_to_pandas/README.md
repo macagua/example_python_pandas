@@ -1,6 +1,6 @@
 # Introduction to Pandas
 
-The following are the Introduction to Pandas exmaples:
+The following are the [Introduction to Pandas](https://leetcode.com/studyplan/introduction-to-pandas/) _study plan_ from [LeetCode](https://leetcode.com/) exmaples:
 
 ## Pandas Data Structures
 

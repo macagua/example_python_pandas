@@ -1,6 +1,6 @@
 # 30 Days of Pandas
 
-The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days-of-pandas/) _study plan_ exmaples:
+The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days-of-pandas/) _study plan_ from [LeetCode](https://leetcode.com/) exmaples:
 
 ## Data Filtering
 
