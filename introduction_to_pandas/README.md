@@ -35,3 +35,5 @@ The following are the Introduction to Pandas exmaples:
 ## Table Reshaping
 
 - [Reshape Data: Concatenate](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/reshape_data_concatenate.py).
+
+- [Reshape Data: Pivot](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/reshape_data_pivot.py).
