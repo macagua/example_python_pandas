@@ -15,3 +15,5 @@ The following are the Introduction to Pandas exmaples:
 ## Data Selecting
 
 - [Select Data](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/select_data.py).
+
+- [Create a New Column](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/create_a_new_column.py).
