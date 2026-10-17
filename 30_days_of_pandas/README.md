@@ -21,3 +21,5 @@ The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days
 - [Fix Names in a Table](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/fix_names_in_a_table.py).
 
 - [Find Users With Valid E-Mails](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/find_users_with_valid_emails.py).
+
+- [Patients With a Condition](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/patients_with_a_condition.py).
