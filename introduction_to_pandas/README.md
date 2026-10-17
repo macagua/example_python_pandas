@@ -25,3 +25,5 @@ The following are the Introduction to Pandas exmaples:
 - [Drop Missing Data](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/drop_missing_data.py).
 
 - [Modify Columns](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/modify_columns.py).
+
+- [Rename Columns](https://github.com/macagua/example.pandas/blob/main/introduction_to_pandas/rename_columns.py).
