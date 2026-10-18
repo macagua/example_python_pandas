@@ -31,3 +31,5 @@ The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days
 - [Second Highest Salary](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/second_highest_salary.py).
 
 - [Department Highest Salary](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/department_highest_salary.py).
+
+- [Rank Scores](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/rank_scores.py).
