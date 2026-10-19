@@ -37,3 +37,7 @@ The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days
 - [Delete Duplicate Emails](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/delete_duplicate_emails.py).
 
 - [Rearrange Products Table](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/rearrange_products_table.py).
+
+## Statistics
+
+- [Count Salary Categories](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/count_salary_categories.py).
