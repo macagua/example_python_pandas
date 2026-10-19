@@ -2,7 +2,9 @@
 
 ![Python with Pandas exmaples](https://entrenamiento-data-scientist-python.readthedocs.io/_images/pandas_logo.png)
 
-The following are the Python with Pandas exmaples:
+- [Data Scientist en Python](https://github.com/macagua/example_python_pandas/tree/main/entrenamiento_data_scientist_python/README.md).
+
+The following are the extras Python with Pandas exmaples:
 
 - [Introduction to Pandas](https://github.com/macagua/example_python_pandas/tree/main/introduction_to_pandas/README.md).
 
