@@ -47,3 +47,5 @@ The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days
 - [Find Total Time Spent by Each Employee](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/find_total_time_spent_by_each_employee.py).
 
 - [Game Play Analysis I](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/game_play_analysis_i.py).
+
+- [Number of Unique Subjects Taught by Each Teacher](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/number_of_unique_subjects_taught_by_each_teacher.py).
