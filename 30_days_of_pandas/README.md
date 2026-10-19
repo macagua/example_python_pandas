@@ -41,3 +41,7 @@ The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days
 ## Statistics
 
 - [Count Salary Categories](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/count_salary_categories.py).
+
+## Data Aggregation
+
+- [Find Total Time Spent by Each Employee](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/find_total_time_spent_by_each_employee.py).
