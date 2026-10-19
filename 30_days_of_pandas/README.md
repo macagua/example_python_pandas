@@ -49,3 +49,5 @@ The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days
 - [Game Play Analysis I](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/game_play_analysis_i.py).
 
 - [Number of Unique Subjects Taught by Each Teacher](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/number_of_unique_subjects_taught_by_each_teacher.py).
+
+- [Classes With at Least 5 Students](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/class_with_at_least_5_students.py).
