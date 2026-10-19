@@ -53,3 +53,5 @@ The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days
 - [Classes With at Least 5 Students](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/class_with_at_least_5_students.py).
 
 - [Customer Placing the Largest Number of Orders](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/customer_placing_the_largest_number_of_orders.py).
+
+- [Group Sold Products By The Date](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/group_sold_products_by_the_date.py).
