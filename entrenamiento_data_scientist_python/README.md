@@ -8,4 +8,4 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 
 - [Create a series from a dictionary](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/create_a_series_from_dictionary.py).
 
-- [Series features](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_features.py).
+- [Series properties](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_features.py).
