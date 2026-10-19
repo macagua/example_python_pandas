@@ -45,3 +45,5 @@ The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days
 ## Data Aggregation
 
 - [Find Total Time Spent by Each Employee](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/find_total_time_spent_by_each_employee.py).
+
+- [Game Play Analysis I](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/game_play_analysis_i.py).
