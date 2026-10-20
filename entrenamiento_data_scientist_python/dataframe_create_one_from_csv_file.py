@@ -1,7 +1,7 @@
 """Create a DataFrame from a from a CSV file example."""
 import pandas as pd
 
-# Importing the ‘datos-colesteroles.csv’ file
+# Create a DataFrame from a CSV file
 df = pd.read_csv(
     "https://raw.githubusercontent.com/macagua/entrenamiento.data_scientist_python/main/recursos/leccion3/datos/colesteroles.csv",
     sep=";",
