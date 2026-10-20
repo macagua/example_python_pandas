@@ -1,4 +1,4 @@
-"""Analyze game play data to find the first login date for each player example"""
+"""Analyze game play data to find the first login date for each player example."""
 import pandas as pd
 
 def game_analysis(activity: pd.DataFrame) -> pd.DataFrame:

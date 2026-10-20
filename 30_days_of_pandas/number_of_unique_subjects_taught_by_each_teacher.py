@@ -1,4 +1,4 @@
-"""Count the number of unique subjects taught by each teacher example"""
+"""Count the number of unique subjects taught by each teacher example."""
 import pandas as pd
 
 def count_unique_subjects(teacher: pd.DataFrame) -> pd.DataFrame:

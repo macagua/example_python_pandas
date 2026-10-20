@@ -1,4 +1,4 @@
-"""Order scores in descending order and assign ranks example"""
+"""Order scores in descending order and assign ranks example."""
 import pandas as pd
 
 def order_scores(scores: pd.DataFrame) -> pd.DataFrame:

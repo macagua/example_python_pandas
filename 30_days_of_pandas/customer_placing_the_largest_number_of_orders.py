@@ -1,4 +1,4 @@
-"""Find the customer placing the largest number of orders example"""
+"""Find the customer placing the largest number of orders example."""
 import pandas as pd
 
 def largest_orders(orders: pd.DataFrame) -> pd.DataFrame:

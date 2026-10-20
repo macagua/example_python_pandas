@@ -1,4 +1,4 @@
-"""Find recyclable and low-fat products in the DataFrame example"""
+"""Find recyclable and low-fat products in the DataFrame example."""
 import pandas as pd
 
 def find_products(products: pd.DataFrame) -> pd.DataFrame:

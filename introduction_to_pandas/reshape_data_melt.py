@@ -1,4 +1,4 @@
-"""Melt the report DataFrame example"""
+"""Melt the report DataFrame example."""
 import pandas as pd
 
 def meltTable(report: pd.DataFrame) -> pd.DataFrame:

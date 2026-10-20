@@ -1,4 +1,4 @@
-"""Create a series from a dictionary example"""
+"""Create a series from a dictionary example."""
 import pandas as pd
 
 # Create a series from a dictionary

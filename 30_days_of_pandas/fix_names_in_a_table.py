@@ -1,4 +1,4 @@
-"""Fix the names in the users DataFrame to have proper capitalization example"""
+"""Fix the names in the users DataFrame to have proper capitalization example."""
 import pandas as pd
 
 def fix_names(users: pd.DataFrame) -> pd.DataFrame:

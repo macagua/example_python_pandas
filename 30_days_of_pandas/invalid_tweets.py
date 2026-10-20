@@ -1,4 +1,4 @@
-"""Find invalid tweets based on content length example"""
+"""Find invalid tweets based on content length example."""
 import pandas as pd
 
 def invalid_tweets(tweets: pd.DataFrame) -> pd.DataFrame:

@@ -1,4 +1,4 @@
-"""Modify the salary column by doubling its values example"""
+"""Modify the salary column by doubling its values example.""""
 import pandas as pd
 
 def modifySalaryColumn(employees: pd.DataFrame) -> pd.DataFrame:

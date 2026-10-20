@@ -1,4 +1,4 @@
-"""Get users with valid emails based on a specific regex pattern example"""
+"""Get users with valid emails based on a specific regex pattern example."""
 import pandas as pd
 
 def valid_emails(users: pd.DataFrame) -> pd.DataFrame:

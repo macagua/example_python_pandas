@@ -1,4 +1,4 @@
-"""Drop duplicate rows based on the 'email' column example"""
+"""Drop duplicate rows based on the 'email' column example."""
 import pandas as pd
 
 def dropDuplicateEmails(customers: pd.DataFrame) -> pd.DataFrame:

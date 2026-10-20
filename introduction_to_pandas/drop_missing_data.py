@@ -1,4 +1,4 @@
-"""Drop rows with missing data in the 'name' column example"""
+"""Drop rows with missing data in the 'name' column example.""""
 import pandas as pd
 
 def dropMissingData(students: pd.DataFrame) -> pd.DataFrame:

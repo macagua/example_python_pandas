@@ -1,4 +1,4 @@
-"""Get the Size of a DataFrame example"""
+"""Get the Size of a DataFrame example."""""
 import pandas as pd
 from typing import List
 

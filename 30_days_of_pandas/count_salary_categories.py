@@ -1,4 +1,4 @@
-"""Counts the number of accounts in each salary category example"""
+"""Counts the number of accounts in each salary category example."""
 import pandas as pd
 
 def count_salary_categories(accounts: pd.DataFrame) -> pd.DataFrame:

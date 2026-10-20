@@ -1,4 +1,4 @@
-"""Create a new column in the DataFrame example"""
+"""Create a new column in the DataFrame example."""
 import pandas as pd
 
 def createBonusColumn(employees: pd.DataFrame) -> pd.DataFrame:

@@ -1,4 +1,4 @@
-"""Find patients with a specific condition to start with BIAB1 example"""
+"""Find patients with a specific condition to start with BIAB1 example."""
 import pandas as pd
 
 def find_patients(patients: pd.DataFrame) -> pd.DataFrame:

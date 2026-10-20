@@ -1,4 +1,4 @@
-"""Find classes with at least 5 students example"""
+"""Find classes with at least 5 students example."""
 import pandas as pd
 
 def find_classes(courses: pd.DataFrame) -> pd.DataFrame:

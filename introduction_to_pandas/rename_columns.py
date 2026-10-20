@@ -1,4 +1,4 @@
-"""Rename the columns of the DataFrame example"""
+"""Rename the columns of the DataFrame example."""
 import pandas as pd
 
 def renameColumns(students: pd.DataFrame) -> pd.DataFrame:

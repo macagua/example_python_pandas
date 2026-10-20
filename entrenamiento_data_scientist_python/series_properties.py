@@ -1,4 +1,4 @@
-"""Create a series from a list and access its properties example"""
+"""Create a series from a list and access its properties example."""
 import pandas as pd
 
 # Create a series from a list

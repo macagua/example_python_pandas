@@ -1,4 +1,4 @@
-"""Select data from a DataFrame example"""
+"""Select data from a DataFrame example."""
 import pandas as pd
 
 def selectData(students: pd.DataFrame) -> pd.DataFrame:

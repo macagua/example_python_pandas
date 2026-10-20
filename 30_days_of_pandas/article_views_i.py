@@ -1,4 +1,4 @@
-"""Find authors who have viewed their own articles example"""
+"""Find authors who have viewed their own articles example."""
 import pandas as pd
 
 def article_views(views: pd.DataFrame) -> pd.DataFrame:

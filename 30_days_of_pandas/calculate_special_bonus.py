@@ -1,4 +1,4 @@
-"""Calculate special bonus for employees based on certain conditions example"""
+"""Calculate special bonus for employees based on certain conditions example."""
 import pandas as pd
 
 def calculate_special_bonus(employees: pd.DataFrame) -> pd.DataFrame:

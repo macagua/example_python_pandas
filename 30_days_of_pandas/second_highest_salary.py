@@ -1,4 +1,4 @@
-"""Find the second highest salary in the employee DataFrame example"""
+"""Find the second highest salary in the employee DataFrame example."""
 import pandas as pd
 
 def second_highest_salary(employee: pd.DataFrame) -> pd.DataFrame:

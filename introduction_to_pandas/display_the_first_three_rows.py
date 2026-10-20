@@ -1,4 +1,4 @@
-"""Select the first three rows of the DataFrame example"""
+"""Select the first three rows of the DataFrame example."""
 import pandas as pd
 
 def selectFirstRows(employees: pd.DataFrame) -> pd.DataFrame:

@@ -1,4 +1,4 @@
-"""Pivot the weather DataFrame example"""
+"""Pivot the weather DataFrame example."""
 import pandas as pd
 
 def pivotTable(weather: pd.DataFrame) -> pd.DataFrame:

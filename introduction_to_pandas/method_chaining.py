@@ -1,4 +1,4 @@
-"""Find heavy animals in the DataFrame example"""
+"""Find heavy animals in the DataFrame example."""
 import pandas as pd
 
 def findHeavyAnimals(animals: pd.DataFrame) -> pd.DataFrame:

@@ -1,4 +1,4 @@
-"""Change the data type of the 'grade' column to integer example"""
+"""Change the data type of the 'grade' column to integer example."""
 import pandas as pd
 
 def changeDatatype(students: pd.DataFrame) -> pd.DataFrame:

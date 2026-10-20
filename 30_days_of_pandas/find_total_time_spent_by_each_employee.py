@@ -1,4 +1,4 @@
-"""Calculate total time spent by each employee on each day example"""
+"""Calculate total time spent by each employee on each day example."""
 import pandas as pd
 
 def total_time(employees: pd.DataFrame) -> pd.DataFrame:
