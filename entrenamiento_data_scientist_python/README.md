@@ -25,3 +25,7 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 - [Series sorting](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_sorting.py).
 
 - [Series Drop not avalaible data](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_dropna_data.py).
+
+### DataFrame
+
+- [Create a DataFrame from a dictionary](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_create_one_from_dictionary.py).
