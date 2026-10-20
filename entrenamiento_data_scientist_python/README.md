@@ -4,6 +4,8 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 
 ## Librería Pandas
 
+### Series
+
 - [Create a series from a list](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/create_a_series_from_list.py).
 
 - [Create a series from a dictionary](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/create_a_series_from_dictionary.py).
@@ -11,3 +13,5 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 - [Series properties](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_features.py).
 
 - [Index-based access](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_index_based_access.py).
+
+- [Series full operations](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_full_operations.py).
