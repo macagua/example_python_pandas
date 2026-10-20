@@ -22,7 +22,7 @@ print(df.edad.var())
 print(df.edad.std())
 
 # Covariance matrix
-df.cov()
+print(df.cov())
 
 # Correlation matrix
 print(df.corr())
