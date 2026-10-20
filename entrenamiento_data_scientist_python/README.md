@@ -39,3 +39,5 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 - [Export a DataFrame to a spreadsheet file](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_create_one_to_spreadsheet_file.py).
 
 - [DataFrame properties](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_properties.py).
+
+- [DataFrame Renaming rows and columns](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_rename_rows_and_columns.py).
