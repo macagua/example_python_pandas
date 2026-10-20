@@ -6,6 +6,9 @@ df = pd.read_csv(
     "https://raw.githubusercontent.com/macagua/entrenamiento.data_scientist_python/main/recursos/leccion3/datos/colesterol.csv"
 )
 
+# Print the DataFrame
+print(df)
+
 # Reindexing the DataFrame
 print(
     df.reindex(

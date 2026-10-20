@@ -9,6 +9,11 @@ df = pd.read_csv(
 # Print the original DataFrame
 print(df)
 
-# Name-based access to the DataFrame
-print(df.iloc[1, 3])
-print(df.iloc[1, :2])
+# Accessing a single column by name
+print(df.loc[2, "colesterol"])
+
+# Accessing multiple columns by name
+print(df.loc[:3, ("colesterol", "peso")])
+
+# Accessing rows by index
+print(df["colesterol"])

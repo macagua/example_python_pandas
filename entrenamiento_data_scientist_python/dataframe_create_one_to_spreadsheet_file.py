@@ -8,6 +8,9 @@ df = pd.read_csv(
     decimal=",",
 )
 
+# Print the DataFrame
+print(df)
+
 # Displaying the first 5 rows of the DataFrame
 print(df.head())
 
