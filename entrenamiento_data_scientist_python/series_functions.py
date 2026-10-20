@@ -6,10 +6,10 @@ from math import log
 s = pd.Series([1, 2, 3, 4])
 
 # Apply the logarithm function to each element in the series
-s.apply(log)
+print(s.apply(log))
 
 # Create a series from a list of strings
 s = pd.Series(["a", "b", "c"])
 
 # Apply the upper() method to each element in the series
-s.apply(str.upper)
+print(s.apply(str.upper))
