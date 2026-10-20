@@ -65,3 +65,5 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 - [DataFrame Add Rows](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_add_rows.py).
 
 - [DataFrame Deleting rows](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_deleting_rows.py).
+
+- [DataFrame filter](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_filter.py).
