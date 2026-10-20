@@ -6,15 +6,15 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 
 ### Series
 
-- [Create a series from a list](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_create_one_from_list.py).
+- [Create a Series from a list](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_create_one_from_list.py).
 
-- [Create a series from a dictionary](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_create_one_from_dictionary.py).
+- [Create a Series from a dictionary](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_create_one_from_dictionary.py).
 
 - [Series properties](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_features.py).
 
-- [Index-based access](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_index_based_access.py).
+- [Series Index-based access](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_index_based_access.py).
 
-- [Descriptive summary of the series](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_descriptive_summary.py).
+- [Series Descriptive summary](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_descriptive_summary.py).
 
 - [Series operations](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_operations.py).
 
