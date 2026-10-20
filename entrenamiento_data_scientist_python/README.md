@@ -42,6 +42,6 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 
 - [DataFrame Renaming rows and columns](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_rename_rows_and_columns.py).
 
-- [DataFrame Changing the index](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframwe_changing_the_index.py).
+- [DataFrame Changing the index](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_changing_the_index.py).
 
-- [DataFrame Reindex](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframwe_reindex.py).
+- [DataFrame Reindex](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_reindex.py).
