@@ -19,3 +19,5 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 - [Series operations](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_operations.py).
 
 - [Series functions](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_functions.py).
+
+- [Series filter](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_filter.py).
