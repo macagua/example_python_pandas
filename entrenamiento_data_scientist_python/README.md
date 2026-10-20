@@ -81,3 +81,5 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 - [DataFrame Convert from long to wide format](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_convert_long_to_wide_format.py).
 
 - [DataFrame Concatenate columns](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_concat_columns.py).
+
+- [DataFrame Concatenate rows](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_concat_rows.py).
