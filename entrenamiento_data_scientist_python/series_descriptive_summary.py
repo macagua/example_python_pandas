@@ -1,4 +1,4 @@
-"""Series full operations example."""
+"""Descriptive summary of the series example."""
 import pandas as pd
 
 s = pd.Series([1, 1, 1, 1, 2, 2, 2, 3, 3, 4])

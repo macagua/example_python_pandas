@@ -14,4 +14,4 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 
 - [Index-based access](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_index_based_access.py).
 
-- [Series full operations](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_full_operations.py).
+- [Descriptive summary of the series](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/series_descriptive_summary.py).
