@@ -55,3 +55,5 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 - [DataFrame operations](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_operations.py).
 
 - [DataFrame functions](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_functions.py).
+
+- [DataFrame Descriptive summary](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_descriptive_summary.py).
