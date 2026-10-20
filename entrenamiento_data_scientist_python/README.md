@@ -1,6 +1,6 @@
 # Data Scientist en Python
 
-The following are the [Librería Pandas](https://entrenamiento-data-scientist-python.readthedocs.io//leccion3/pandas.html) _guide_ from [Data Scientist en Python](https://entrenamiento-data-scientist-python.readthedocs.io/) exmaples:
+The following are the [Librería Pandas](https://entrenamiento-data-scientist-python.readthedocs.io/leccion3/pandas.html) _guide_ from [Data Scientist en Python](https://entrenamiento-data-scientist-python.readthedocs.io/) exmaples:
 
 ## Librería Pandas
 
