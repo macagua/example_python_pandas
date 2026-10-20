@@ -31,3 +31,5 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 - [Create a DataFrame from a list](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_create_one_from_list.py).
 
 - [Create a DataFrame from a dictionary](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_create_one_from_dictionary.py).
+
+- [Create a DataFrame from a array](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_create_one_from_array.py).
