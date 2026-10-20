@@ -59,3 +59,5 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 - [Convert a DataFrame column to the datetime data type](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_convert_column_to_datetime_data_type.py).
 
 - [DataFrame Descriptive summary](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_descriptive_summary.py).
+
+- [DataFrame Deleting columns](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_deleting_columns.py).
