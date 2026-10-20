@@ -51,3 +51,5 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 - [DataFrame Name-based access](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_name_based_access.py).
 
 - [DataFrame Add columns](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_add_columns.py).
+
+- [DataFrame operations](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_operations.py).
