@@ -71,3 +71,5 @@ The following are the [Librería Pandas](https://entrenamiento-data-scientist-py
 - [DataFrame sorting](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_sorting.py).
 
 - [DataFrame Drop not avalaible data](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_dropna_data.py).
+
+- [DataFrame Grouping](https://github.com/macagua/example_python_pandas/blob/main/entrenamiento_data_scientist_python/dataframe_groupby.py).
