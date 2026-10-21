@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Create a dictionary with data for the DataFrame
-datos = {
+data = {
     "nombre": ["María", "Luis", "Carmen", "Antonio"],
     "edad": [18, 22, 20, 21],
     "grado": ["Economía", "Medicina", "Arquitectura", "Economía"],
@@ -15,7 +15,7 @@ datos = {
 }
 
 # Create a DataFrame from the dictionary
-df = pd.DataFrame(datos)
+df = pd.DataFrame(data)
 
 # Print the DataFrame
 print(df)
