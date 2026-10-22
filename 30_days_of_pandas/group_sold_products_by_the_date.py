@@ -1,55 +1,44 @@
-"""Daily Leads and Partners by Date and Make Name example."""
+"""Categorize Products by Sell Date example."""
 import pandas as pd
 
-def daily_leads_and_partners(daily_sales: pd.DataFrame) -> pd.DataFrame:
-    """Daily Leads and Partners by Date and Make Name
+def categorize_products(activities: pd.DataFrame) -> pd.DataFrame:
+    """Categorize Products by Sell Date
 
     Args:
-        daily_sales (pd.DataFrame): DataFrame containing daily sales data with columns 'date_id', 'make_name', 'lead_id', and 'partner_id'.
+        activities (pd.DataFrame): DataFrame containing product activities with columns 'sell_date'
 
     Returns:
-        pd.DataFrame: DataFrame with columns 'date_id', 'make_name', 'unique_leads', and 'unique_partners'.
-    """
-    # Group the daily sales data by 'date_id' and 'make_name', without setting the index.
-    daily_sales_grouped = daily_sales.groupby(
-        by=['date_id','make_name'], as_index=False
-    )
-    # Aggregate the grouped data to calculate the number of unique leads and unique partners for each group.
-    daily_sales_grouped = daily_sales_grouped.agg(
-        unique_leads=("lead_id", "nunique"),
-        unique_partners=("partner_id", "nunique")
-    )
-    return daily_sales_grouped
+        pd.DataFrame: DataFrame with columns 'sell_date', 'num_sold
+    """    
+    return activities.groupby(
+        'sell_date'
+    )['product'].agg([
+        ('num_sold', 'nunique'),
+        ('products', lambda x: ','.join(sorted(x.unique())))
+    ]).reset_index()
 
 # Sample Data
 data = {
-    'date_id': [
-        pd.Timestamp('2020-12-8'),
-        pd.Timestamp('2020-12-8'),
-        pd.Timestamp('2020-12-8'),
-        pd.Timestamp('2020-12-7'),
-        pd.Timestamp('2020-12-7'),
-        pd.Timestamp('2020-12-8'),
-        pd.Timestamp('2020-12-8'),
-        pd.Timestamp('2020-12-7'),
-        pd.Timestamp('2020-12-7'),
-        pd.Timestamp('2020-12-7'),
+    'sell_date': [
+        pd.Timestamp('2020-05-30'),
+        pd.Timestamp('2020-06-01'),
+        pd.Timestamp('2020-06-02'),
+        pd.Timestamp('2020-05-30'),
+        pd.Timestamp('2020-06-01'),
+        pd.Timestamp('2020-06-02'),
+        pd.Timestamp('2020-05-30')
     ],
-    'make_name': [
-        'toyota',
-        'toyota',
-        'toyota',
-        'toyota',
-        'toyota',
-        'honda',
-        'honda',
-        'honda',
-        'honda',
-        'honda'],
-    'lead_id': [0, 1, 1, 0, 0, 1, 2, 0, 1, 2],
-    'partner_id': [1, 0, 2, 2, 1, 2, 1, 1, 2, 1],
+    'product': [
+        'Headphone',
+        'Pencil',
+        'Mask',
+        'Basketball',
+        'Bible',
+        'Mask',
+        'T-Shirt'
+        ],
 }
-daily_sales = pd.DataFrame(data)
+activities = pd.DataFrame(data)
 
 # Call the function
-daily_leads_and_partners(daily_sales)
+categorize_products(activities)
