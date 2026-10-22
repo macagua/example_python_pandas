@@ -58,4 +58,6 @@ The following are the [30 Days of Pandas](https://leetcode.com/studyplan/30-days
 
 - [Daily Leads and Partners](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/daily_leads_and_partners.py).
 
+- [Actors and Directors Who Cooperated At Least Three Times](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/actors_and_directors_who_cooperated_at.py).
+
 - [Replace Employee ID With The Unique Identifier](https://github.com/macagua/example_python_pandas/blob/main/30_days_of_pandas/replace_employee_id_with_the_unique_identifier.py).
